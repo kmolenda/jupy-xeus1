@@ -5,3 +5,11 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - jinja2
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - plotly
+  - networkx
+  - simpy
