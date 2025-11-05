@@ -2,7 +2,7 @@
 
 * Krzysztof Molenda
 
-Wersja przeglądarkowa JupyterLab, wykorzystująca kernel `xeus`
+Wersja przeglądarkowa JupyterLab, wykorzystująca kernel `xeus`.
 
 Nie wymaga instalowania czegokolwiek na lokalnym komputerze. Nie wymaga też rejestracji. Kod uruchamiany jest w przeglądarce, a nie na serwerze (technologia WASM). Wersja ta jest przeznaczona do ćwiczeń i nie wymaga instalacji JupyterLab ani Pythona na lokalnym komputerze.
 

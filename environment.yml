@@ -6,6 +6,7 @@ dependencies:
   - xeus-python
   - ipycanvas
   - ipywidgets
+  - ipyleaflet
   - jinja2
   - matplotlib
   - numpy
