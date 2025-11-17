@@ -16,5 +16,10 @@
   },
   "@jupyterlab/console-extension:tracker": {
     "interactionMode": "terminal"
+  },
+  "@jupyterlab/docmanager-extension:plugin": {
+  "defaultViewers": {
+    "markdown": "Markdown Preview"
+    }
   }
 }
